@@ -1,0 +1,13 @@
+nav{
+    text-align: left;
+    font-size: xx-large;
+    color: darkviolet;
+}
+
+body{
+    background-color: rgb(115, 115, 204);
+    background-image: url(nerd-hobby.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color: deepskyblue;
+}
